@@ -221,7 +221,7 @@ superstore-sales-dashboard/
 │
 ├── SUPERSTORE SALES DASHBOARD.xlsx
 │
-├── images/
+├── Images/
 │   └── superstore_sales_dashboard.png
 │
 └── README.md
