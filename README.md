@@ -210,7 +210,7 @@ Based on the dashboard analysis:
 
 ## 🖼️ Dashboard Preview
 
-![Superstore Sales Dashboard](images/superstore_sales_dashboard.png)
+![Superstore Sales Dashboard](Images/superstore_sales_dashboard.png)
 
 ---
 
